@@ -8,6 +8,7 @@ This repository contains automated test cases written in Robot Framework using t
 - Spring Boot: Make sure you have the Todo App project set up and running.
 - Robot Framework: Install Robot Framework
 - Selenium Library: Install the Selenium library for Robot Framework
+- Don't forget to replace the ${URL} in TestSuit1.robot with the actual URL or path where your Todo App is accessible.
 
 
 ## Test Cases
