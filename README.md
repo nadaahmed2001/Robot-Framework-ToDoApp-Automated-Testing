@@ -1,6 +1,6 @@
 # Robot Framework Automated Testing for Todo App
 
-This repository contains automated test cases written in Robot Framework using the Selenium library for testing the Todo App. The test cases verify various functionalities of the Todo App, such as adding new todos, deleting todos, updating completion status, and retrieving todos.
+This repository contains automated test cases written in Robot Framework using the Selenium library for testing the Todo App.
 
 ## Prerequisites
 
