@@ -17,7 +17,7 @@ This repository contains automated test cases written in Robot Framework using t
 Verify that a user can add a new TODO, and after submit, it is added 
 in the table and all text inputs are empty.
 
-#### b. Delete
+#### b. Delete TODO
 Verify user can delete a TODO, and it is removed from the table.
 
 #### c. Update completion
